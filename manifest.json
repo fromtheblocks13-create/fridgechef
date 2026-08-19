@@ -1,9 +1,0 @@
-{
-  "name": "FridgeChef - Ce pot găti?",
-  "short_name": "FridgeChef",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#08101d",
-  "theme_color": "#0b1020",
-  "description": "Sugestii de rețete după ingredientele pe care le ai în casă."
-}
